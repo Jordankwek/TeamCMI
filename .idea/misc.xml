@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Jordan Kwek/AndroidStudioProjects/TeamCMI/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Jordan Kwek/AndroidStudioProjects/TeamCMI/app/src/main/res/drawable/input_border.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Jordan Kwek/AndroidStudioProjects/TeamCMI/app/src/main/res/layout/activity_app_login.xml" value="0.22" />
+        <entry key="..\:/Users/Jordan Kwek/AndroidStudioProjects/TeamCMI/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Jordan Kwek/AndroidStudioProjects/TeamCMI/app/src/main/res/layout/activity_sign_in.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Jordan Kwek/AndroidStudioProjects/TeamCMI/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/Jordan Kwek/AndroidStudioProjects/TeamCMI/app/src/main/res/layout/fragment_add_friends.xml" value="0.1" />
+        <entry key="..\:/Users/Jordan Kwek/AndroidStudioProjects/TeamCMI/app/src/main/res/layout/fragment_all_rooms.xml" value="0.1" />
       </map>
     </option>
   </component>
@@ -12,5 +18,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>
